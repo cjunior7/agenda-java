@@ -12,6 +12,7 @@ Una agenda simple desarrollada en Java desde consola. Permite:
    ```bash
    javac Contacto.java Agenda.java
 2. Ejecutar:
+   ```bash
    java Agenda
 
 Tecnologías
