@@ -24,8 +24,11 @@ Interfaz por consola
 
 Ariel Sandoval Treppo
 📍 Las Palmas, Chaco, Argentina
+
 📧 arieltreppop@gmail.com
+
 📱 +54 3625 168573
+
 🌐 https://cjunior7.github.io/mi-pagina-personal/
 
 Proyecto desarrollado como parte de mi formación en programación en Informatorio Chaco
