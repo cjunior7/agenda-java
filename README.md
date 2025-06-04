@@ -23,6 +23,7 @@ Interfaz por consola
 👨‍💻 Autor
 
 Ariel Sandoval Treppo
+
 📍 Las Palmas, Chaco, Argentina
 
 📧 arieltreppop@gmail.com
